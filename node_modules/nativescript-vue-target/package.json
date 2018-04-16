@@ -1,0 +1,19 @@
+{
+  "name": "nativescript-vue-target",
+  "version": "0.1.0",
+  "description": "Webpack target for NativeScript-Vue",
+  "main": "index.js",
+  "peerDependencies": {
+    "webpack": "3.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewebsimple/nativescript-vue-target.git"
+  },
+  "author": "Pascal Martineau <pascal@lewebsimple.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lewebsimple/nativescript-vue-target/issues"
+  },
+  "homepage": "https://github.com/lewebsimple/nativescript-vue-target#readme"
+}

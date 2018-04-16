@@ -1,0 +1,27 @@
+{
+  "name": "winston-color",
+  "version": "1.0.0",
+  "description": "Quickly create a Winston-based logger with colored output enabled by default",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturoarevalo/winston-color.git"
+  },
+  "keywords": [
+    "winston",
+    "log",
+    "color"
+  ],
+  "author": "Arturo Arévalo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arturoarevalo/winston-color/issues"
+  },
+  "homepage": "https://github.com/arturoarevalo/winston-color#readme",
+  "dependencies": {
+    "winston": "^2.1.1"
+  }
+}
